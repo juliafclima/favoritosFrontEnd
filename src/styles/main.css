@@ -42,6 +42,7 @@ main {
   flex-wrap: wrap;
   justify-content: space-around;
   padding: 20px;
+  margin-bottom: 40px;
 }
 
 .card {
@@ -50,10 +51,14 @@ main {
   border-radius: 5px;
   width: 300px;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+}
+
+.card:last-of-type {
+  margin-bottom: 100px;
 }
 
 .card__titulo {
@@ -97,10 +102,38 @@ footer {
   padding: 20px;
   z-index: 100;
   box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .footer__titulo {
-  font-size: 0.8em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer__titulo a {
+  color: #ff6347;
+  text-decoration: none;
+}
+
+.footer__titulo a:hover {
+  text-decoration: underline;
+}
+
+footer p {
+  margin-bottom: 5px;
+  max-width: 400px;
+}
+
+footer p a {
+  color: #ff6347;
+  text-decoration: none;
+}
+
+footer p a:hover {
+  text-decoration: underline;
 }
 
 @media screen and (max-width: 768px) {
