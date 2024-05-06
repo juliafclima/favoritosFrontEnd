@@ -1,5 +1,9 @@
 header {
-  background-color: #333;
+  background-image: radial-gradient(
+    circle farthest-corner at -4% -12.9%,
+    rgba(74, 98, 110, 1) 0.3%,
+    rgba(30, 33, 48, 1) 90.2%
+  );
   color: #fff;
   padding: 10px;
   text-align: center;
@@ -45,35 +49,6 @@ main {
   margin-bottom: 40px;
 }
 
-.card {
-  border: 1px solid #ccc;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  border-radius: 5px;
-  width: 300px;
-  padding: 20px;
-  margin-bottom: 30px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.card:last-of-type {
-  margin-bottom: 100px;
-}
-
-.card__titulo {
-  font-size: 1.2em;
-  margin-bottom: 10px;
-}
-
-.card__descricao {
-  margin-bottom: 15px;
-}
-
-.card__categoria {
-  display: flex;
-}
-
 .card__categoria-image {
   width: 30px;
   height: 30px;
@@ -81,14 +56,8 @@ main {
   margin-right: 5px;
 }
 
-.card__link {
-  text-decoration: none;
-  color: inherit;
-  transition: color 0.3s;
-}
-
-.card__link:hover {
-  color: #ff6347;
+.divisao {
+  height: 50px;
 }
 
 footer {
@@ -96,7 +65,11 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #333;
+  background-image: radial-gradient(
+    circle farthest-corner at -4% -12.9%,
+    rgba(74, 98, 110, 1) 0.3%,
+    rgba(30, 33, 48, 1) 90.2%
+  );
   color: #fff;
   text-align: center;
   padding: 20px;
@@ -157,9 +130,7 @@ footer p a:hover {
 }
 
 @media screen and (max-width: 680px) {
-  main {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  .card {
+    width: 200px;
   }
 }

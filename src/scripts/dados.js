@@ -5,7 +5,7 @@ const imgDefault2 = `https://media.licdn.com/dms/image/D4D35AQHCOU45fDKgZA/profi
 const todosLinks = {
   /* frameworks: {
     emoji: "🛠️",
-    data: [
+    data: [ 
       {
         nome: "",
         url: "",
@@ -396,6 +396,18 @@ const todosLinks = {
         url: "https://www.awwwards.com/",
         descricao:
           "Plataforma que reconhece e premia a excelência no design web, exibindo exemplos inspiradores e inovadores de criação digital.",
+        categorias: [`${imgDefault}`],
+      },
+    ],
+  },
+
+  react_native: {
+    emoji: "⚙️",
+    data: [
+      {
+        nome: "React Email",
+        url: "https://react.email/docs/introduction",
+        descricao: "Biblioteca para criar e-mails responsivos usando React.js.",
         categorias: [`${imgDefault}`],
       },
     ],

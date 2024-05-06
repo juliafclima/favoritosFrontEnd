@@ -1,7 +1,10 @@
 import todosLinks from "./dados.js";
 
 document.addEventListener("DOMContentLoaded", function () {
+  //const loader = document.getElementById("loader");
   const elementosParaInserirLinks = document.getElementById("links");
+
+  //loader.style.display = "block";
 
   exibirLinksNaTela(todosLinks);
 
@@ -17,19 +20,25 @@ document.addEventListener("DOMContentLoaded", function () {
         const descricaoLimitada = limitarTexto(link.descricao, limitePalavras);
 
         elementosParaInserirLinks.innerHTML += `
-        <div class="card">
-        <div>
-          <a class="card__link" href="${link.url}" target="_blank">
-            <h2 class="card__titulo">${link.nome}</h2>
-          </a>
-          <p class="card__descricao">${descricaoLimitada}</p>
-          </div>
-          
-          <div class="card__categoria">${categoriasHTML}</div>
-        </div>
+              <a class="card1" href="${link.url}" target="_blank">
+              
+                <p>${link.nome}</p>
+                <p class="small">${descricaoLimitada}</p>
+                
+                <div class="card__categoria">${categoriasHTML}</div>
+
+                <div class="go-corner" href="${link.url}">
+                  <div class="go-arrow">
+                  →
+                  </div>
+                </div>
+              </a>
         `;
       });
     }
+
+    //loader.style.display = "none";
+    //mainContent.classList.remove("hidden");
   }
 });
 
