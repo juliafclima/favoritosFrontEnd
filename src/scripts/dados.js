@@ -27,6 +27,368 @@ const todosLinks = {
     ],
   }, */
 
+  imagens: {
+    emoji: "📚",
+    data: [
+      {
+        nome: "DrawKit",
+        url: "https://www.drawkit.com/",
+        descricao:
+          "Um recurso de ilustrações vetoriais premium para projetos criativos, oferecendo uma variedade de estilos e temas.",
+        categorias: [``],
+      },
+      {
+        nome: "PixaBay",
+        url: "https://pixabay.com/",
+        descricao:
+          "Um banco de imagens gratuito com uma vasta coleção de fotos, ilustrações, vetores e vídeos para uso em projetos criativos.",
+        categorias: [``],
+      },
+      {
+        nome: "Flaticon",
+        url: "https://www.flaticon.com/",
+        descricao:
+          "Um banco de dados de ícones vetoriais abrangente, oferecendo uma ampla variedade de opções para diversos projetos de design.",
+        categorias: [``],
+      },
+      {
+        nome: "Flickr",
+        url: "https://flickr.com/",
+        descricao:
+          "Uma plataforma de compartilhamento de fotos que permite aos usuários fazer upload, organizar e compartilhar suas imagens com o mundo.",
+        categorias: [``],
+      },
+      {
+        nome: "Pexels",
+        url: "https://www.pexels.com/pt-br/",
+        descricao:
+          "Um site que oferece uma vasta coleção de fotos e vídeos gratuitos de alta qualidade para uso em projetos pessoais e comerciais.",
+        categorias: [``],
+      },
+      {
+        nome: "FreeImages",
+        url: "https://www.freeimages.com/pt",
+        descricao:
+          "Um banco de imagens que disponibiliza uma variedade de fotos gratuitas para uso em projetos pessoais e comerciais.",
+        categorias: [``],
+      },
+      {
+        nome: "Storyset",
+        url: "https://storyset.com/",
+        descricao:
+          "Um recurso de ilustrações e elementos gráficos para criar narrativas visuais impactantes em projetos digitais e de mídia.",
+        categorias: [``],
+      },
+      {
+        nome: "StockSnap",
+        url: "https://stocksnap.io/",
+        descricao:
+          "Um banco de imagens com fotos de alta qualidade, gratuitas para uso pessoal e comercial, sem necessidade de atribuição.",
+        categorias: [``],
+      },
+      {
+        nome: "UnDraw",
+        url: "https://undraw.co/",
+        descricao:
+          "Uma coleção de ilustrações vetoriais personalizáveis para complementar projetos de design digital de forma criativa e moderna.",
+        categorias: [``],
+      },
+      {
+        nome: "Unsplash",
+        url: "https://unsplash.com/pt-br",
+        descricao:
+          "Um banco de imagens com fotos de alta resolução, gratuitas para uso pessoal e comercial, oferecendo uma ampla variedade de temas.",
+        categorias: [``],
+      },
+      {
+        nome: "Freerange",
+        url: "https://freerangestock.com/index.php",
+        descricao:
+          "Um site que oferece uma variedade de fotos e ilustrações de alta qualidade, gratuitas para uso pessoal e comercial.",
+        categorias: [``],
+      },
+      {
+        nome: "Glaze Stock",
+        url: "https://www.glazestock.com/",
+        descricao:
+          "Um recurso de imagens de alta qualidade para projetos criativos, oferecendo uma variedade de fotos e ilustrações gratuitas e premium.",
+        categorias: [``],
+      },
+      {
+        nome: "Gratisography",
+        url: "https://gratisography.com/",
+        descricao:
+          "Um acervo de imagens únicas e criativas, com fotografias de alta qualidade disponíveis gratuitamente para uso pessoal e comercial.",
+        categorias: [``],
+      },
+      {
+        nome: "Humaaans",
+        url: "https://www.humaaans.com/",
+        descricao:
+          "Um recurso de ilustrações vetoriais personalizáveis de humanos, ideal para adicionar diversidade e personalidade a projetos de design.",
+        categorias: [``],
+      },
+      {
+        nome: "New Old Stock",
+        url: "https://nos.twnsnd.co/",
+        descricao:
+          "Um repositório de sons ambiente de alta qualidade e gratuitos para uso em projetos criativos e produções audiovisuais.",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        descricao: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        descricao: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        descricao: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        descricao: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        descricao: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        descricao: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        descricao: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        descricao: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        descricao: "",
+        categorias: [``],
+      },
+    ],
+  },
+
+  icones: {
+    emoji: "📚",
+    data: [
+      {
+        nome: "Eva icons",
+        url: "https://akveo.github.io/eva-icons/#/",
+        descricao:
+          "Uma coleção gratuita de ícones vetoriais com estilo moderno e diversas opções de personalização.",
+        categorias: [``],
+      },
+      {
+        nome: "Feather icons",
+        url: "https://feathericons.com/",
+        descricao:
+          "Um repositório de ícones simples e elegantes disponíveis gratuitamente para uso em projetos de design.",
+        categorias: [``],
+      },
+      {
+        nome: "Font awesome",
+        url: "https://fontawesome.com/",
+        descricao:
+          "Uma biblioteca de ícones vetoriais de alta qualidade para adicionar estilo e funcionalidade aos designs.",
+        categorias: [``],
+      },
+      {
+        nome: "Heroi icons",
+        url: "https://heroicons.dev/",
+        descricao:
+          "Uma coleção de ícones minimalistas e modernos, perfeitos para interfaces de usuário e design responsivo.",
+        categorias: [``],
+      },
+      {
+        nome: "Icon svg",
+        url: "https://iconsvg.xyz/",
+        descricao:
+          "Um repositório de ícones vetoriais em formato SVG, oferecendo uma ampla variedade de opções para projetos de design.",
+        categorias: [``],
+      },
+      {
+        nome: "Icons 8",
+        url: "https://icons8.com/",
+        descricao:
+          "Uma biblioteca de ícones modernos e versáteis, com uma ampla gama de opções para diversas aplicações de design.",
+        categorias: [``],
+      },
+      {
+        nome: "Shape",
+        url: "https://shape.so/",
+        descricao:
+          "Uma plataforma para criar facilmente gráficos vetoriais personalizados para designs web e aplicativos.",
+        categorias: [``],
+      },
+      {
+        nome: "Flaticon",
+        url: "https://www.flaticon.com/br/",
+        descricao:
+          "Um vasto repositório de ícones vetoriais com opções gratuitas e premium, ideal para projetos de design variados.",
+        categorias: [``],
+      },
+      {
+        nome: "Icons Bootstrap",
+        url: "https://icons.getbootstrap.com/",
+        descricao:
+          "Uma biblioteca de ícones vetoriais integráveis ao Bootstrap, facilitando a criação de interfaces web responsivas e estilizadas.",
+        categorias: [``],
+      },
+      {
+        nome: "Devicon",
+        url: "https://devicon.dev/",
+        descricao:
+          "Uma coleção de ícones vetoriais representando tecnologias de desenvolvimento de software, perfeita para destacar habilidades e ferramentas em currículos e projetos.",
+        categorias: [``],
+      },
+      {
+        nome: "Phosphor icons",
+        url: "https://phosphoricons.com/",
+        descricao:
+          "Uma biblioteca de ícones vetoriais com um design moderno e estilizado, adequado para uma variedade de aplicações de design.",
+        categorias: [``],
+      },
+      {
+        nome: "Ion icons",
+        url: "https://ionic.io/ionicons",
+        descricao:
+          "Uma coleção de ícones vetoriais modernos e versáteis, projetados especialmente para aplicativos móveis e web com Ionic Framework.",
+        categorias: [``],
+      },
+    ],
+  },
+
+  geradores_css: {
+    emoji: "📚",
+    data: [
+      {
+        nome: "Neumorphism",
+        url: "https://neumorphism.io/#e0e0e0",
+        descricao: "Gerador de sombras + border radius com efeito Neumorphism",
+        categorias: [``],
+      },
+      {
+        nome: "Button generator",
+        url: "https://markodenic.com/tools/buttons-generator/",
+        descricao: "Gerador de botões css",
+        categorias: [``],
+      },
+      {
+        nome: "Fancy Border-Radius",
+        url: "https://9elements.github.io/fancy-border-radius/",
+        descricao: "Gerador de formas com border-radius no CSS",
+        categorias: [``],
+      },
+      {
+        nome: "WAIT! Animate",
+        url: "https://waitanimate.wstone.uk/",
+        descricao: "Gerador de animações de CSS",
+        categorias: [``],
+      },
+      {
+        nome: "Best CSS Button Generator",
+        url: "https://www.bestcssbuttongenerator.com/",
+        descricao: "Gerador de butões do CSS",
+        categorias: [``],
+      },
+      {
+        nome: "HTML CSS JS Generator",
+        url: "https://html-css-js.com/css/generator/",
+        descricao: "Gerador de HTML/CSS/JS",
+        categorias: [``],
+      },
+      {
+        nome: "BennettFeely",
+        url: "https://bennettfeely.com/clippy/",
+        descricao: "Criador de clip-path",
+        categorias: [``],
+      },
+      {
+        nome: "Animista",
+        url: "https://animista.net/",
+        descricao: "Gera animações css incrivéis com o código css pronto",
+        categorias: [``],
+      },
+      {
+        nome: "Gradient css",
+        url: "https://www.cssmatic.com/gradient-generator",
+        descricao: "Gerador de cores gradientes css/sass",
+        categorias: [``],
+      },
+      {
+        nome: "Image Slider Maker",
+        url: "https://imageslidermaker.com/v2",
+        descricao: "Geras slides/carrousel de uma forma rápida",
+        categorias: [``],
+      },
+      {
+        nome: "Shape Dividers",
+        url: "https://shapedividers.com/",
+        descricao:
+          "Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG",
+        categorias: [``],
+      },
+      {
+        nome: "Couleur",
+        url: "https://couleur.io/",
+        descricao:
+          "Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web",
+        categorias: [``],
+      },
+      {
+        nome: "Baseline CSS Filters",
+        url: "https://baseline.is/tools/css-photo-filters/",
+        descricao:
+          "36 Belos filtros de fotos, com edição simples e CSS para copiar",
+        categorias: [``],
+      },
+      {
+        nome: "Naevner",
+        url: "https://naevner.com/",
+        descricao:
+          "Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais",
+        categorias: [``],
+      },
+      {
+        nome: "Gradientoa",
+        url: "https://www.gradientos.app/",
+        descricao: "Gerador de cores gradientes",
+        categorias: [``],
+      },
+      {
+        nome: "Color Space",
+        url: "https://mycolor.space/",
+        descricao:
+          "Ferramentas e recursos para explorar, criar e combinar paletas de cores.",
+        categorias: [``],
+      },
+    ],
+  },
+
   ferramentas: {
     emoji: "⚙️",
     data: [
