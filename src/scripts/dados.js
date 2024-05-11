@@ -136,15 +136,15 @@ const todosLinks = {
         categorias: [``],
       },
       {
-        nome: "",
-        url: "",
-        descricao: "",
+        nome: "FreePik",
+        url: "https://br.freepik.com/",
+        descricao: "Um site de pesquisa de imagens, videos, icones e criação de designs",
         categorias: [``],
       },
       {
-        nome: "",
-        url: "",
-        descricao: "",
+        nome: "Plectica",
+        url: "https://www.plectica.com/",
+        descricao: "Ferramenta de mapeamento visual. No Plectica é possível organizar partes que podem ser combinadas e conectadas entre si para formar uma imagem completa.",
         categorias: [``],
       },
       {
