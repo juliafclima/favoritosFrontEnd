@@ -3,6 +3,22 @@ const imgDefault = `https://media.licdn.com/dms/image/D4D35AQHjSqI7RFtkkA/profil
 const imgDefault2 = `https://media.licdn.com/dms/image/D4D35AQHCOU45fDKgZA/profile-framedphoto-shrink_400_400/0/1712324932309?e=1715558400&v=beta&t=2cD0xCKibHJDIvcbQHqB9YShTL2Q_mJtuqYYQSXrH0w`;
 
 const todosLinks = {
+  ilustracoes: {
+    emoji: "🎨",
+    data: [
+      {
+        nome: "unDraw",
+        url: "https://undraw.co/illustrations",
+        categorias: [``],
+      },
+      {
+        nome: "LukaszAdam",
+        url: "https://lukaszadam.com/illustrations",
+        categorias: [``],
+      },
+    ],
+  },
+
   favicon: {
     emoji: "🖼️",
     data: [
@@ -202,6 +218,46 @@ const todosLinks = {
       {
         nome: "Ikonate",
         url: "https://ikonate.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Simple Icons",
+        url: "https://simpleicons.org/",
+        categorias: [``],
+      },
+      {
+        nome: "Icons Cout",
+        url: "https://iconscout.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Icon finder",
+        url: "https://www.iconfinder.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Icon SVG",
+        url: "https://iconsvg.xyz/",
+        categorias: [``],
+      },
+      {
+        nome: "Icons Monstr",
+        url: "https://iconmonstr.com/",
+        categorias: [``],
+      },
+      {
+        nome: "OpenMoji",
+        url: "https://openmoji.org/",
+        categorias: [``],
+      },
+      {
+        nome: "Phosphoricons",
+        url: "https://phosphoricons.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Remixicon",
+        url: "https://remixicon.com/",
         categorias: [``],
       },
     ],
@@ -583,6 +639,11 @@ const todosLinks = {
       {
         nome: "React Email",
         url: "https://react.email/docs/introduction",
+        categorias: [``],
+      },
+      {
+        nome: "Icons Expo",
+        url: "https://icons.expo.fyi/Index",
         categorias: [``],
       },
     ],
