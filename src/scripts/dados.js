@@ -4,7 +4,7 @@ const imgDefault2 = `https://media.licdn.com/dms/image/D4D35AQHCOU45fDKgZA/profi
 
 const todosLinks = {
   favicon: {
-    emoji: "🛠️",
+    emoji: "🖼️",
     data: [
       {
         nome: "FavIcon",
@@ -20,7 +20,7 @@ const todosLinks = {
   },
 
   emojis: {
-    emoji: "📚",
+    emoji: "😊",
     data: [
       {
         nome: "Emoji Keyboard",
@@ -41,7 +41,7 @@ const todosLinks = {
   },
 
   imagens: {
-    emoji: "📚",
+    emoji: "📷",
     data: [
       {
         nome: "DrawKit",
@@ -132,7 +132,7 @@ const todosLinks = {
   },
 
   icones: {
-    emoji: "📚",
+    emoji: "💡",
     data: [
       {
         nome: "Eva icons",
@@ -208,7 +208,7 @@ const todosLinks = {
   },
 
   geradores_css: {
-    emoji: "📚",
+    emoji: "🖌️",
     data: [
       {
         nome: "Neumorphism",
@@ -294,18 +294,18 @@ const todosLinks = {
   },
 
   ferramentas: {
-    emoji: "⚙️",
+    emoji: "🛠️",
     data: [
       {
         nome: "TransferNow",
         url: "https://www.transfernow.net/pt",
-        categorias: [`${imgDefault}`, `${imgDefault2}`],
+        categorias: [``],
       },
     ],
   },
 
   fontes: {
-    emoji: "⚙️",
+    emoji: "🖋️",
     data: [
       {
         nome: "1001 Fonts",
@@ -330,260 +330,260 @@ const todosLinks = {
       {
         nome: "BeFonts",
         url: "https://befonts.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "UrbanFonts",
         url: "https://www.urbanfonts.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Netfontes",
         url: "https://www.netfontes.com.br/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Adobe Fonts",
         url: "https://fonts.adobe.com/fonts",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "FontPair",
         url: "https://www.fontpair.co/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Colors & Fonts",
         url: "https://www.colorsandfonts.com/google-fonts/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "WhatFontIs",
         url: "https://www.whatfontis.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "MyFonts",
         url: "https://www.myfonts.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Google Fonts",
         url: "https://fonts.google.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Font Squirrel",
         url: "https://www.fontsquirrel.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Dafont",
         url: "https://www.dafont.com/pt/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "W3BAI",
         url: "https://www.w3bai.com/en-US/cssref/css_websafe_fonts.html#gsc.tab=0",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "CSS Font Stack",
         url: "https://www.cssfontstack.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
     ],
   },
 
   banco_de_dados: {
-    emoji: "⚙️",
+    emoji: "💾",
     data: [
       {
         nome: "SQL toad",
         url: "https://sql.toad.cz/?",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Excalidraw",
         url: "https://excalidraw.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
     ],
   },
 
   api: {
-    emoji: "⚙️",
+    emoji: "🍽️",
     data: [
       {
         nome: "Any API",
         url: "https://any-api.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Repositório Public API",
         url: "https://github.com/public-apis/public-apis",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
     ],
   },
 
   normalize_css: {
-    emoji: "⚙️",
+    emoji: "📏",
     data: [
       {
         nome: "Normalize.css",
         url: "https://necolas.github.io/normalize.css/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Css Tolls: Reset",
         url: "https://meyerweb.com/eric/tools/css/reset/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
     ],
   },
 
   responsividade: {
-    emoji: "⚙️",
+    emoji: "📱",
     data: [
       {
         nome: "Responsive design checker",
         url: "https://responsivedesignchecker.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Am I Responsive?",
         url: "https://ui.dev/amiresponsive",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
     ],
   },
 
   acessibilidade: {
-    emoji: "⚙️",
+    emoji: "🌐",
     data: [
       {
         nome: "Can I Use",
         url: "https://caniuse.com/?search=HTML5",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Access Monitor",
         url: "https://accessmonitor.acessibilidade.gov.pt/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
     ],
   },
 
   performance: {
-    emoji: "⚙️",
+    emoji: "⚡",
     data: [
       {
         nome: "1PageRank",
         url: "https://1pagerank.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "FreeFormatter",
         url: "https://www.freeformatter.com/html-formatter.html",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Ahrefs Keyword Generator",
         url: "https://ahrefs.com/pt/keyword-generator",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "CSS Lint",
         url: "http://csslint.net/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
     ],
   },
 
   ideias: {
-    emoji: "⚙️",
+    emoji: "💡",
     data: [
       {
         nome: "BootstrapMade",
         url: "https://bootstrapmade.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Behance",
         url: "https://www.behance.net/search/projects/sites%20web%20design?tracking_source=typeahead_search_direct",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Dribbble",
         url: "https://dribbble.com/search/web-site",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Mobbin",
         url: "https://mobbin.com/browse/web/screens",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Best Website Gallery",
         url: "https://bestwebsite.gallery/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "CSS Nectar",
         url: "https://bestwebsite.gallery/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "HTTPSTER",
         url: "https://httpster.net/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "SiteSee",
         url: "https://sitesee.co/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Land-book",
         url: "https://land-book.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Lapa Ninja",
         url: "https://www.lapa.ninja/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "DeviantArt",
         url: "https://www.deviantart.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Pinterest",
         url: "https://br.pinterest.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Cruip",
         url: "https://cruip.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
       {
         nome: "Awwwards",
         url: "https://www.awwwards.com/",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
     ],
   },
 
   react_native: {
-    emoji: "⚙️",
+    emoji: "⚛️",
     data: [
       {
         nome: "React Email",
         url: "https://react.email/docs/introduction",
-        categorias: [`${imgDefault}`],
+        categorias: [``],
       },
     ],
   },
