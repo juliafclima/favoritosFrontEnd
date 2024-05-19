@@ -1,5 +1,3 @@
-const imgDefault = `https://media.licdn.com/dms/image/D4D35AQHjSqI7RFtkkA/profile-framedphoto-shrink_400_400/0/1713288137542?e=1715558400&v=beta&t=edWNMAbEMg77PreJmVC9Ic2SggIVTRYhudBBCaH88tA`;
-
 const imgDefault2 = `https://media.licdn.com/dms/image/D4D35AQHCOU45fDKgZA/profile-framedphoto-shrink_400_400/0/1712324932309?e=1715558400&v=beta&t=2cD0xCKibHJDIvcbQHqB9YShTL2Q_mJtuqYYQSXrH0w`;
 
 const todosLinks = {
@@ -7,15 +5,85 @@ const todosLinks = {
     emoji: "🎨",
     data: [
       {
-        nome: "unDraw",
-        url: "https://undraw.co/illustrations",
-        categorias: [``],
-      },
-      {
         nome: "LukaszAdam",
         url: "https://lukaszadam.com/illustrations",
         categorias: [``],
       },
+      {
+        nome: "Ira Design",
+        url: "https://iradesign.io/illustrations",
+        categorias: [``],
+      },
+      {
+        nome: "Many Pixels",
+        url: "https://www.manypixels.co/gallery",
+        categorias: [``],
+      },
+      {
+        nome: "Open Doodles",
+        url: "https://www.opendoodles.com/",
+        categorias: [``],
+      },
+      {
+        nome: "DrawKit",
+        url: "https://www.drawkit.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Absurd Design",
+        url: "https://absurd.design/",
+        categorias: [``],
+      },
+      {
+        nome: "IRA Design",
+        url: "https://iradesign.io/illustrations",
+        categorias: [``],
+      },
+      {
+        nome: "Ouch!",
+        url: "https://icons8.com/ouch",
+        categorias: [``],
+      },
+      {
+        nome: "Glaze Stock",
+        url: "https://www.glazestock.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Humaaans",
+        url: "https://www.humaaans.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Illustration.co",
+        url: "https://www.illustration.co/",
+        categorias: [``],
+      },
+      {
+        nome: "IsoFlat",
+        url: "https://isoflat.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Kapwing",
+        url: "https://www.kapwing.com/404-illustrations",
+        categorias: [``],
+      },
+      {
+        nome: "Grawing Ilustration",
+        url: "https://error404.fun/",
+        categorias: [``],
+      },
+      {
+        nome: "Blush",
+        url: "https://blush.design/pt",
+        categorias: [``],
+      },
+      {
+        nome: "Delesign",
+        url: "https://delesign.com/free-designs/graphics/",
+        categorias: [``],
+      }
     ],
   },
 
@@ -30,6 +98,11 @@ const todosLinks = {
       {
         nome: "FavIcon CC",
         url: "https://www.favicon.cc/",
+        categorias: [``],
+      },
+      {
+        nome: "Xicon editor",
+        url: "https://www.xiconeditor.com/",
         categorias: [``],
       },
     ],
@@ -59,11 +132,6 @@ const todosLinks = {
   imagens: {
     emoji: "📷",
     data: [
-      {
-        nome: "DrawKit",
-        url: "https://www.drawkit.com/",
-        categorias: [``],
-      },
       {
         nome: "PixaBay",
         url: "https://pixabay.com/",
@@ -115,18 +183,8 @@ const todosLinks = {
         categorias: [``],
       },
       {
-        nome: "Glaze Stock",
-        url: "https://www.glazestock.com/",
-        categorias: [``],
-      },
-      {
         nome: "Gratisography",
         url: "https://gratisography.com/",
-        categorias: [``],
-      },
-      {
-        nome: "Humaaans",
-        url: "https://www.humaaans.com/",
         categorias: [``],
       },
       {
@@ -142,6 +200,97 @@ const todosLinks = {
       {
         nome: "Plectica",
         url: "https://www.plectica.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Vecteezy",
+        url: "https://www.vecteezy.com/free-vector",
+        categorias: [``],
+      },
+      {
+        nome: "Picjumbo",
+        url: "https://picjumbo.com/",
+        categorias: [``],
+      },
+      {
+        nome: "MorgueFile",
+        url: "https://morguefile.com/",
+        categorias: [``],
+      },
+      {
+        nome: "https://picsum.photos/",
+        url: "Picsum Lorem",
+        categorias: [``],
+      },
+      {
+        nome: "Public Domain Archive",
+        url: "https://www.publicdomainarchive.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Visual Hunt",
+        url: "https://visualhunt.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Burst",
+        url: "https://www.shopify.com/br/stock-photos",
+        categorias: [``],
+      },
+      {
+        nome: "Cupcake",
+        url: "https://cupcake.nilssonlee.se/",
+        categorias: [``],
+      },
+      {
+        nome: "Imgur",
+        url: "https://imgur.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Life of Pix",
+        url: "https://www.lifeofpix.com/",
+        categorias: [``],
+      },
+      {
+        nome: "Little Visuals",
+        url: "https://littlevisuals.co/",
+        categorias: [``],
+      },
+      {
+        nome: "Nappy",
+        url: "https://nappy.co/",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        categorias: [``],
+      },
+      {
+        nome: "",
+        url: "",
+        categorias: [``],
+      },
+    ],
+  },
+
+  simbolos: {
+    emoji: "⭐",
+    data: [
+      {
+        nome: "Colors and fonts",
+        url: "https://www.colorsandfonts.com/glyphs/",
+        categorias: [``],
+      },
+      {
+        nome: "Tabela de Símbolos",
+        url: "https://erikasarti.com/html/dingbats-simbolos-desenhos/",
         categorias: [``],
       },
     ],
@@ -193,11 +342,6 @@ const todosLinks = {
       {
         nome: "Devicon",
         url: "https://devicon.dev/",
-        categorias: [``],
-      },
-      {
-        nome: "Phosphor icons",
-        url: "https://phosphoricons.com/",
         categorias: [``],
       },
       {
@@ -260,10 +404,15 @@ const todosLinks = {
         url: "https://remixicon.com/",
         categorias: [``],
       },
+      {
+        nome: "Material Design Icons",
+        url: "https://pictogrammers.com/library/mdi/https://www.favicon.cc/",
+        categorias: [``],
+      },
     ],
   },
 
-  geradores_css: {
+  geradorescss: {
     emoji: "🖌️",
     data: [
       {
@@ -356,6 +505,15 @@ const todosLinks = {
         nome: "TransferNow",
         url: "https://www.transfernow.net/pt",
         categorias: [``],
+      },
+      {
+        nome: "RemoveBg",
+        url: "https://www.remove.bg/",
+        categorias: [``],
+      },
+      {
+        nome: "Vectorizer",
+        url: "https://www.vectorizer.io/",
       },
     ],
   },
@@ -451,7 +609,7 @@ const todosLinks = {
     ],
   },
 
-  banco_de_dados: {
+  bancodedados: {
     emoji: "💾",
     data: [
       {
@@ -483,7 +641,7 @@ const todosLinks = {
     ],
   },
 
-  normalize_css: {
+  normalizecss: {
     emoji: "📏",
     data: [
       {
@@ -633,7 +791,7 @@ const todosLinks = {
     ],
   },
 
-  react_native: {
+  reactnative: {
     emoji: "⚛️",
     data: [
       {
