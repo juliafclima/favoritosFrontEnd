@@ -4,6 +4,7 @@ const todosLinks = {
   ilustracoes: {
     emoji: "🎨",
     data: [
+
       {
         nome: "LukaszAdam",
         url: "https://lukaszadam.com/illustrations",
@@ -620,6 +621,12 @@ const todosLinks = {
       {
         nome: "Excalidraw",
         url: "https://excalidraw.com/",
+        categorias: [``],
+      },
+
+      {
+        nome: "Gerador de CPF", 
+        url: "https://www.4devs.com.br/gerador_de_cpf",  
         categorias: [``],
       },
     ],
